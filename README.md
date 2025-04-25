@@ -1,1 +1,2 @@
-# inpainting-app
+# SAM + Stable Diffusion Inpainting App 🎨✨
+... [truncated for brevity; will add full content in actual code] ...
